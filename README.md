@@ -1,6 +1,6 @@
 
 
-##this project contact with AI to get a perfect recipe depend on user's ingredient.
+##this project contact with AI to get a perfect recipe depend on user's ingredient.##
 
 As developer : 
 you have to make an API Key from hugging face as my code using their key 
